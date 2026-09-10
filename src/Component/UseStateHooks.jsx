@@ -18,6 +18,11 @@ const UseStateHooks = () => {
                setCount(count - 1)}
           }}>Decrement</button>
 
+              
+<h1>hiiiii</h1>
+
+
+              <h1>hiii</h1>
 
           <button onClick={()=>setColor("grey")}   >dark mode</button>
           <button onClick={()=>setColor("")}   >Light mode</button>
